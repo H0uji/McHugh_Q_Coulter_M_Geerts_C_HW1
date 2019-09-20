@@ -2,4 +2,4 @@
 
 ## Learn all about our lit team
 
-Gunga ginga gunga ginga 
+Hey, my name is Carter Geerts. This is homework assignment 1.
