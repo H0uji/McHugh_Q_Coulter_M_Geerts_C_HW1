@@ -1,1 +1,5 @@
-# McHugh_Q_Coulter_M_Geerts_C_HW1
+# My Team Lit Bio Page
+
+## Learn all about our lit team
+
+Gunga ginga gunga ginga 
